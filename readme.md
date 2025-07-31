@@ -77,8 +77,7 @@ Différentes approches et modèles ont été testés afin d'optimiser la reconna
 ---
 
 ## Organisation
-
-- Les notebooks sont nettoyés, sans sorties visibles (graphiques, warnings, résultats).  
+  
 - Les datasets lourds et fichiers temporaires ne sont pas inclus dans ce dépôt.  
 - Pour reproduire les résultats, il faudra exécuter les notebooks dans l'ordre.
 
