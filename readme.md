@@ -1,7 +1,5 @@
 # Projet Synthèse Audio - Pour GitHub
-
-Ce dépôt contient les notebooks Jupyter nettoyés et prêts à être partagés sur GitHub.  
-Les sorties (résultats, warnings) ont été effacées pour garder le dépôt propre et lisible.
+Ce dépôt regroupe les notebooks Jupyter utilisés dans le cadre du projet d’analyse des émotions et sentiments à partir de données audio.
 
 ---
 
