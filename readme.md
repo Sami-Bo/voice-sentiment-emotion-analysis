@@ -65,10 +65,8 @@ Le dossier contient plusieurs notebooks qui couvrent différentes étapes du pro
   
 - **capturer_voix.ipynb** : Notebook Python interactif permettant de capturer des données vocales en temps réel avec reconnaissance multilingue, détection de commandes vocales d'arrêt personnalisées selon la langue, et extraction de caractéristiques audio avancées via OpenSMILE.
 
-- **filtrage_csv_columns.ipynb** : Traitement des fichiers CSV associés.  
-- **kaggle_model_use.ipynb** et autres notebooks liés à Kaggle.  
-- **meld_dl_autres.ipynb**, **ravdess_dp_xgboost.ipynb**, **ravdess_model_use.ipynb** : Notebooks spécifiques pour les datasets MELD, RAVDESS, etc.  
-
+- **kaggle_model_use.ipynb** et autres notebooks liés aux datasets Kaggle, où différents modèles ont été testés.  
+- **meld_dl_autres.ipynb**, **ravdess_dp_xgboost.ipynb**, **ravdess_model_use.ipynb** : Notebooks spécifiques pour les datasets MELD, RAVDESS, etc., avec exploration et expérimentation de plusieurs modèles d’apprentissage.
 ---
 
 ## Description du projet
@@ -90,4 +88,4 @@ Différentes approches et modèles ont été testés afin d'optimiser la reconna
 
 1. Clonez ce dépôt :  
 ```bash
-git clone https://github.com/Sami-Bo/ton-repo.git
+git clone https://github.com/Sami-Bo/voice-sentiment-emotion-analysis.git
